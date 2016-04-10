@@ -1,2 +1,3 @@
 # mySocial
-little scrip to display social icons on the website
+simple script to display social icons on the website
+
